@@ -1,5 +1,10 @@
 ## Planet Command Line
 
+```
+# install planet package
+conda install -c conda-forge planet
+```
+
 #### Mosaic examples
 
 ```python
